@@ -1,1 +1,1 @@
-sudo port install p5-file-rename
+sudo port install mmv
